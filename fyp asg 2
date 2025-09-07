@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-	printf("Name : Raynaldo Wijaya \n");
+	printf("Name : William Daniel \n");
 	printf("Favorite Programming Language : Python ");
 	return 0;
 }
